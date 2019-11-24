@@ -1,6 +1,6 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Being Baraka}
+#### {Brief description of application}, {The latest version as of 11/24/2019}
+
 ## Description
 {This website is about Timothy Baraka and it tells all about him
 from his education up and until to the projects he has been 
