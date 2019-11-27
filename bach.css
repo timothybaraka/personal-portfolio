@@ -1,6 +1,5 @@
 #name{
     float :left;
-    font:;
     color:white;
 }
 #meet{
@@ -9,10 +8,11 @@
 .names{
     padding-top:20px ;
     padding-bottom:20px;
+}
  a{
     padding:30px;
 }    
-}
+
 nav{
     float:right;
 }
