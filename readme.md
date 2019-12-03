@@ -1,4 +1,4 @@
-# Being Baraka####
+# Being Baraka
 The latest version as of 11/24/2019
 ## Description
 This website is about Timothy Baraka and it tells all about him
